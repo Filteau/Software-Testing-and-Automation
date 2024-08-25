@@ -1,2 +1,11 @@
 # Software-Testing-and-Automation
-These files demonstrate my ability to create unit tests using code to uncover rrors, analyze various approaches to software testing based on requirements, and apply appropriate testing strategies to meet requirements
+These files demonstrate my ability to create unit tests using code to uncover errors, analyze various approaches to software testing based on requirements, and apply appropriate testing strategies to meet requirements
+
+# How can I ensure that my code, program, or software is functional and secure?
+To ensure that my code, program, or software is functional and secure, a robust approach is very much required. This involves thorough testing, planning, and a great deal of understanding of user needs. Automated testing certainly has an important role in this process by increasing efficiency and consistency, allowing for more rapid identification and resolution to issues. It's also very important to be mindful of oversights, like inadequate test coverage, neglecting non-functional testings (like security and performance), failure to maintain and updated the automated tests as the program evolves, and over-reliance on test scripts which may lead to oversights of critical errors. Utilizing a balance of automation and manual testing, especially in exploratory testing, helps catch issues that the automated scripts may miss - this ensures a robust, secure, and user-friendly product. 
+
+# How do I interpret user needs and incorporate them into a program?
+Interpreting user needs and incorporating them into a program begins with active engagement with users to understand their requirements, preferences, and pain points. Understanding this should inform the design and development process to ensure that the software meets its intended purpose while providing a positive user experience.
+
+# How do I approach designing software?
+When designing software, it's important to start with a clear plan that considers functional and non-functional requirements. This will include defining the architecture, choosing appropriate technologies, and setting up a CI/CD pipeline that integrates automated tests at every stage. In keeping the user's needs at the forefront and using best practices in software development, including robust testing and iterative design, software can be created that is both functional and secure. This will meet the demands of users while maintaining high standards of quality AND reliability. 
